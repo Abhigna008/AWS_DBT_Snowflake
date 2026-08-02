@@ -1,0 +1,3 @@
+{
+    "dbt.dbtPythonPathOverride": "d:\\Data_Analytics\\youtube\\3 analytics engineering\\project\\aws_dbt_snowflake_project\\.venv\\Scripts\\python.exe"
+}
